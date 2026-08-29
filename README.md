@@ -8,3 +8,4 @@ Vercel: subledger
 Dashboard: https://subledger.vokrix.co
 Vercel: subledger
 Railway: subledger
+Cloudflare: subledger.vokrix.co
