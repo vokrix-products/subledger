@@ -1,3 +1,9 @@
 # SubLedger
 
 Subscription audit tool. Dashboard at `dashboard/`, backend at `backend/`.
+
+Dashboard: https://subledger.vokrix.co
+Vercel: subledger
+
+Dashboard: https://subledger.vokrix.co
+Vercel: subledger
